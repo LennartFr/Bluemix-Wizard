@@ -44,13 +44,14 @@
 </ol>
 
 <h2>Integration Layer</h2>
-<a href="https://console.ng.bluemix.net/catalog/services/secure-gateway/">Secure Gateway</a>
+<ol>
+<li><a href="https://console.ng.bluemix.net/catalog/services/secure-gateway/">Secure Gateway</a>
 <a href="https://console.ng.bluemix.net/catalog/services/secure-gateway/index.html">Docs</a>
-<a href="https://console.ng.bluemix.net/catalog/services/cloud-integration/">Cloud Integration</a>
+<li><a href="https://console.ng.bluemix.net/catalog/services/cloud-integration/">Cloud Integration</a>
 <a href="https://console.ng.bluemix.net/catalog/services/cloud-integration/index.html">Docs</a>
-<a href="https://console.ng.bluemix.net/catalog/services/api-management/">API Management</a>
+<li><a href="https://console.ng.bluemix.net/catalog/services/api-management/">API Management</a>
 <a href="https://www.ng.bluemix.net/docs/services/APIManagement/index.html">Docs</a>
-
+</ol>
 
 
 

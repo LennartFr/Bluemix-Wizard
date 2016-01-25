@@ -48,7 +48,7 @@
 <ol>
 <li><a href="https://console.ng.bluemix.net/catalog/services/secure-gateway/">Secure Gateway</a>
 <br><a href="https://console.ng.bluemix.net/catalog/services/secure-gateway/index.html">Docs</a>
-<li><a href="https://console.ng.bluemix.net/catalog/services/cloud-integration/">Cloud Integration</a>
+<li><a href="https://console.ng.bluemix.net/catalog/services/cloud-integration/">Bluemix Cloud Integration enables users to integrate cloud services with enterprise systems of record. Bluemix Cloud Integration exposes the backend systems of record as ReST APIs to be used by applications</a>
 <br><a href="https://console.ng.bluemix.net/catalog/services/cloud-integration/index.html">Docs</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/api-management/">API Management</a>
 <br><a href="https://www.ng.bluemix.net/docs/services/APIManagement/index.html">Docs</a>

@@ -20,6 +20,7 @@
 <h2> Data Layer</h2>
 <ol>
 <li><a href="https://console.ng.bluemix.net/catalog/services/cloudant-nosql-db/">Cloudant NOSQL DB</a>
+<a href="https://console.ng.bluemix.net/catalog/services/cloudant-nosql-db/index.html">Docs</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/ibm-db2-on-cloud/">DB2 on Cloud</a>
 <a href="https://www.ng.bluemix.net/docs/services/DB2OnCloud/index.html">Docs</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/postgresql-by-compose/">PostgreSQL by Compose</a>

@@ -20,13 +20,13 @@
 <h2> Data Layer</h2>
 <ol>
 <li><a href="https://console.ng.bluemix.net/catalog/services/cloudant-nosql-db/">Cloudant NOSQL DB</a>
-<a href="https://console.ng.bluemix.net/catalog/services/cloudant-nosql-db/index.html">Docs</a>
+<br><a href="https://console.ng.bluemix.net/catalog/services/cloudant-nosql-db/index.html">Docs</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/ibm-db2-on-cloud/">DB2 on Cloud</a>
-<a href="https://www.ng.bluemix.net/docs/services/DB2OnCloud/index.html">Docs</a>
+<br><a href="https://www.ng.bluemix.net/docs/services/DB2OnCloud/index.html">Docs</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/postgresql-by-compose/">PostgreSQL by Compose</a>
-<a href="https://docs.compose.io/getting-started/compose.html">Docs</a>
+<br><a href="https://docs.compose.io/getting-started/compose.html">Docs</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/mongodb-by-compose/">MongoDB</a>
-<a href="https://console.ng.bluemix.net/catalog/services/mongodb-by-compose/index.html">Docs</a>
+<br><a href="https://console.ng.bluemix.net/catalog/services/mongodb-by-compose/index.html">Docs</a>
 </ol>
 
 <h2>Analytics Layer</h2>
@@ -37,21 +37,21 @@
 <li><a href="https://console.ng.bluemix.net/catalog/services/dashdb/">DashDB</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/dataworks/">DataWorks</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/geospatial-analytics/">Gespatial Analytics</a>
-<a href="https://www.ng.bluemix.net/docs/#services/geospatial/index.html#geospatial">Docs</a>
+<br><a href="https://www.ng.bluemix.net/docs/#services/geospatial/index.html#geospatial">Docs</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/streaming-analytics/">Streaming Analytics</a>
 <img src="https://streams-app-broker.ng.bluemix.net/public/StreamsConsole1.png">
 <li><a href="https://console.ng.bluemix.net/catalog/services/predictive-analytics/">Predictive Analytics</a>
-<a href="http://www.ng.bluemix.net/docs/#services/PredictiveModeling/index.html">Docs</a>
+<br><a href="http://www.ng.bluemix.net/docs/#services/PredictiveModeling/index.html">Docs</a>
 </ol>
 
 <h2>Integration Layer</h2>
 <ol>
 <li><a href="https://console.ng.bluemix.net/catalog/services/secure-gateway/">Secure Gateway</a>
-<a href="https://console.ng.bluemix.net/catalog/services/secure-gateway/index.html">Docs</a>
+<br><a href="https://console.ng.bluemix.net/catalog/services/secure-gateway/index.html">Docs</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/cloud-integration/">Cloud Integration</a>
-<a href="https://console.ng.bluemix.net/catalog/services/cloud-integration/index.html">Docs</a>
+<br><a href="https://console.ng.bluemix.net/catalog/services/cloud-integration/index.html">Docs</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/api-management/">API Management</a>
-<a href="https://www.ng.bluemix.net/docs/services/APIManagement/index.html">Docs</a>
+<br><a href="https://www.ng.bluemix.net/docs/services/APIManagement/index.html">Docs</a>
 </ol>
 
 

@@ -1,5 +1,7 @@
 # Bluemix-Wizard
 
+<a href="https://www.ng.bluemix.net/docs/overview/index.html">Blueix Overview</a>
+
 <h2>Questions</h2>
 <ol>
 <li>Are you in any specific industry?
@@ -9,6 +11,7 @@
 <br><a href="https://www.ng.bluemix.net/docs/security/index.html">Bluemix Security</a>
 <li>Are you already using any cloud service, if so which?
 <li>What Cloud hosting model do you prefer?  Public, Dedicated, On Premise, Hybrid (Bluemix and some other Cloud)?
+<img src="https://www.ng.bluemix.net/docs/api/content/overview/images/localarch.png">
 <li>What security requirements do you have?
 <li>What type of data do you work with? (Big Data, NoSQL, SQL)
 <li>What analytics requirements do you have?

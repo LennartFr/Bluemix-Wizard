@@ -9,8 +9,15 @@
 <li>What regulations do you have to comply with?
 <br>(SOC, Safe Harbor, PCI/DSS,FISMA,HIPAA)
 <li>Are you already using any cloud service, if so which?
-<li>What Cloud hosting model do you prefer?  Public, <a href="http://www.ibm.com/cloud-computing/bluemix/hybrid/dedicated/index-b.html">Dedicated</a>, <a href="http://www.ibm.com/cloud-computing/bluemix/hybrid/local/">Local</a> Hybrid (Bluemix and some other Cloud)?
-<img src="https://www.ng.bluemix.net/docs/api/content/overview/images/localarch.png">
+<li>What Cloud hosting model do you prefer?  
+<ol>
+<li>Public, 
+<li><a href="http://www.ibm.com/cloud-computing/bluemix/hybrid/dedicated/index-b.html">Dedicated</a>,
+<li><a href="https://www.ng.bluemix.net/docs/dedicated/index.html">Bluemig Decicated</a>
+<br><img src="https://www.ng.bluemix.net/docs/api/content/dedicated/images/detaileddedicated.png">
+<li><a href="http://www.ibm.com/cloud-computing/bluemix/hybrid/local/">Local</a> 
+<br><img src="https://www.ng.bluemix.net/docs/api/content/overview/images/localarch.png">
+<li>Hybrid
 <li><a href="http://www.ibm.com/cloud-computing/bluemix/solutions/open-architecture/">Cloud Foundry, IBM Containers, Virtual Machines</a>
 <li>What security requirements do you have?
 <br><a href="https://www.ng.bluemix.net/docs/security/index.html">Bluemix Security</a>
@@ -43,7 +50,7 @@
 <li><a href="https://console.ng.bluemix.net/catalog/services/biginsights-for-apache-hadoop/">BigInsights for Apache Hadoop</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/dashdb/">DashDB</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/dataworks/">DataWorks</a>
-<li><a href="https://console.ng.bluemix.net/catalog/services/geospatial-analytics/">Gespatial Analytics</a>
+<li><a href="https://console.ng.bluemix.net/catalog/services/geospatial-analytics/">Geospatial Analytics</a>
 <br><a href="https://www.ng.bluemix.net/docs/#services/geospatial/index.html#geospatial">Docs</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/streaming-analytics/">Streaming Analytics</a>
 <img src="https://streams-app-broker.ng.bluemix.net/public/StreamsConsole1.png">

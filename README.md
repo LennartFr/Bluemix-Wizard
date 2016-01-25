@@ -3,7 +3,7 @@
 <h2>Questions</h2>
 <ol>
 <li>Are you in any specific industry?
-<br>Map to IBM Verticals: Aerospace and defense, Automotive, Banking, Chemicals and petroleum, Communications, Consumer products, Education, Electronics, Energy and utilities, Financial markets, Government, Healthcare, Insurance, Life sciences, Media and entertainment, Metals, mining, Retail, Travel and transportation
+<br>Map to IBM Verticals: <a href="http://www-935.ibm.com/industries/aerospacedefense/">Aerospace and defense</a>, Automotive, Banking, Chemicals and petroleum, Communications, Consumer products, Education, Electronics, Energy and utilities, Financial markets, Government, Healthcare, Insurance, Life sciences, Media and entertainment, Metals, mining, Retail, Travel and transportation
 <li>What regulations do you have to comply with?
 <br>(SOC, Safe Harbor, PCI/DSS,FISMA,HIPAA)
 <br><a href="https://www.ng.bluemix.net/docs/security/index.html">Bluemix Security</a>

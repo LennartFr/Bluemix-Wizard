@@ -24,6 +24,8 @@
 <a href="https://www.ng.bluemix.net/docs/services/DB2OnCloud/index.html">Docs</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/postgresql-by-compose/">PostgreSQL by Compose</a>
 <a href="https://docs.compose.io/getting-started/compose.html">Docs</a>
+<li><a href="https://console.ng.bluemix.net/catalog/services/mongodb-by-compose/">MongoDB</a>
+<a href="https://console.ng.bluemix.net/catalog/services/mongodb-by-compose/index.html">Docs</a>
 </ol>
 
 <h2>Analytics Layer</h2>

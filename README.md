@@ -7,6 +7,7 @@
 <li>What regulations do you have to comply with? (SOC, Safe Harbor, PCI/DSS,FISMA,HIPAA)
 <li>Are you already using any cloud service, if so which?
 <ol>
+<li><a href="https://bluemix.net">IBM Bluemix</a>
 <li><a href="https://aws.amazon.com/">AWS</a>
 <li><a href="https://www.heroku.com/">Heroku</a>
 <li><a href="https://azure.microsoft.com/">Microsoft Azure</a>

@@ -6,9 +6,27 @@
 <h2>Questions</h2>
 <ol>
 <li>Are you in any specific industry?
-<br>Map to IBM Verticals: <a href="http://www-935.ibm.com/industries/aerospacedefense/">Aerospace and defense</a>, Automotive, Banking, Chemicals and petroleum, Communications, Consumer products, Education, Electronics, Energy and utilities, Financial markets, Government, Healthcare, Insurance, Life sciences, Media and entertainment, Metals, mining, Retail, Travel and transportation
-<li>What regulations do you have to comply with?
-<br>(SOC, Safe Harbor, PCI/DSS,FISMA,HIPAA)
+<br>Map to IBM Verticals: 
+<li><a href="http://www-935.ibm.com/industries/aerospacedefense/">Aerospace and defense</a>
+<li>Automotive 
+<li>Banking
+<li>Chemicals and petroleum
+<li>Communications
+<li>Consumer products
+<li>Education
+<li>Electronics
+<li>Energy and utilities
+<li>Financial markets
+<li>Government
+<li>Healthcare
+<li>Insurance
+<li>Life sciences
+<li>Media and entertainment
+<li>Metals mining
+<li>Retail
+<li>Travel and transportation
+</ol>
+<li>What regulations do you have to comply with? (SOC, Safe Harbor, PCI/DSS,FISMA,HIPAA)
 <li>Are you already using any cloud service, if so which?
 <li>What Cloud hosting model do you prefer?  
 <ol>

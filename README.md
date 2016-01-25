@@ -24,7 +24,7 @@
 <a href="https://www.ng.bluemix.net/docs/services/DB2OnCloud/index.html">Docs</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/postgresql-by-compose/">PostgreSQL by Compose/a>
 <a href="https://docs.compose.io/getting-started/compose.html">Docs</a>
-
+</ol>
 
 <h2>Analytics Layer</h2>
 <ol>
@@ -39,7 +39,7 @@
 <img src="https://streams-app-broker.ng.bluemix.net/public/StreamsConsole1.png">
 <li><a href="https://console.ng.bluemix.net/catalog/services/predictive-analytics/">Predictive Analytics</a>
 <a href="http://www.ng.bluemix.net/docs/#services/PredictiveModeling/index.html">Docs</a>
-
+</ol>
 
 
 

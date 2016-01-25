@@ -8,11 +8,12 @@
 <br>Map to IBM Verticals: <a href="http://www-935.ibm.com/industries/aerospacedefense/">Aerospace and defense</a>, Automotive, Banking, Chemicals and petroleum, Communications, Consumer products, Education, Electronics, Energy and utilities, Financial markets, Government, Healthcare, Insurance, Life sciences, Media and entertainment, Metals, mining, Retail, Travel and transportation
 <li>What regulations do you have to comply with?
 <br>(SOC, Safe Harbor, PCI/DSS,FISMA,HIPAA)
-<br><a href="https://www.ng.bluemix.net/docs/security/index.html">Bluemix Security</a>
 <li>Are you already using any cloud service, if so which?
-<li>What Cloud hosting model do you prefer?  Public, Dedicated, On Premise, Hybrid (Bluemix and some other Cloud)?
+<li>What Cloud hosting model do you prefer?  Public, <a href="http://www.ibm.com/cloud-computing/bluemix/hybrid/dedicated/index-b.html">Dedicated</a>, <a href="http://www.ibm.com/cloud-computing/bluemix/hybrid/local/">Local</a> Hybrid (Bluemix and some other Cloud)?
 <img src="https://www.ng.bluemix.net/docs/api/content/overview/images/localarch.png">
+<li><a href="http://www.ibm.com/cloud-computing/bluemix/solutions/open-architecture/">Cloud Foundry, IBM Containers, Virtual Machines</a>
 <li>What security requirements do you have?
+<br><a href="https://www.ng.bluemix.net/docs/security/index.html">Bluemix Security</a>
 <li>What type of data do you work with? (Big Data, NoSQL, SQL)
 <li>What analytics requirements do you have?
 <li>Will you be using any Watson Services, if so which one(s)?

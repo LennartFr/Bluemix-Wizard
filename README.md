@@ -27,6 +27,9 @@
 <li><a href="https://console.ng.bluemix.net/catalog/services/geospatial-analytics/">Gespatial Analytics</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/streaming-analytics/">Streaming Analytics</a>
 <img src="https://streams-app-broker.ng.bluemix.net/public/StreamsConsole1.png">
+<li><a href="https://console.ng.bluemix.net/catalog/services/predictive-analytics/">
+<a href="http://www.ng.bluemix.net/docs/#services/PredictiveModeling/index.html">Docs</a>
+
 
 
 

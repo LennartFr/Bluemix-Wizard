@@ -17,13 +17,14 @@
 <li>What Use Case(s) do you have? 
 </ol>
 
-<h2>Data Layer</h2>
+<h2>Analytics Layer</h2>
 <ol>
 <li><a href="https://console.ng.bluemix.net/catalog/services/analytics-for-apache-hadoop/">Analytics for Apache Hadoop</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/apache-spark/">Apache Spark</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/biginsights-for-apache-hadoop/">BigInsights for Apache Hadoop</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/dashdb/">DashDB</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/dataworks/">DataWorks</a>
+<li><a href="https://console.ng.bluemix.net/catalog/services/geospatial-analytics/">Gespatial Analytics</a>
 
 
 

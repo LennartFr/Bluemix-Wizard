@@ -45,6 +45,7 @@
 </ol>
 
 <h2>Integration Layer</h2>
+<a href="http://www.ibm.com/cloud-computing/bluemix/solutions/integration/">Introduction to Integration</a>
 <ol>
 <li><a href="https://console.ng.bluemix.net/catalog/services/secure-gateway/">Secure Gateway</a>
 <br><a href="https://console.ng.bluemix.net/catalog/services/secure-gateway/index.html">Docs</a>

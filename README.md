@@ -6,6 +6,7 @@
 <br>Map to IBM Verticals: Aerospace and defense, Automotive, Banking, Chemicals and petroleum, Communications, Consumer products, Education, Electronics, Energy and utilities, Financial markets, Government, Healthcare, Insurance, Life sciences, Media and entertainment, Metals, mining, Retail, Travel and transportation
 <li>What regulations do you have to comply with?
 <br>(SOC, Safe Harbor, PCI/DSS,FISMA,HIPAA)
+<br><a href="https://www.ng.bluemix.net/docs/security/index.html">Bluemix Security</a>
 <li>Are you already using any cloud service, if so which?
 <li>What Cloud hosting model do you prefer?  Public, Dedicated, On Premise, Hybrid (Bluemix and some other Cloud)?
 <li>What security requirements do you have?

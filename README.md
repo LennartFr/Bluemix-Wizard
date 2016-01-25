@@ -17,9 +17,9 @@
 <ol>
 <li>Public, 
 <li><a href="http://www.ibm.com/cloud-computing/bluemix/hybrid/dedicated/index-b.html">Dedicated</a>,
-<li><a href="https://www.ng.bluemix.net/docs/dedicated/index.html">Bluemig Decicated</a>
+<li><a href="https://www.ng.bluemix.net/docs/dedicated/index.html">Bluemix Decicated</a>
 <br><img src="https://www.ng.bluemix.net/docs/api/content/dedicated/images/detaileddedicated.png">
-<li><a href="http://www.ibm.com/cloud-computing/bluemix/hybrid/local/">Local</a> 
+<li><a href="http://www.ibm.com/cloud-computing/bluemix/hybrid/local/">Bluemix Local</a> 
 <br><img src="https://www.ng.bluemix.net/docs/api/content/overview/images/localarch.png">
 <li>Hybrid
 <li><a href="http://www.ibm.com/cloud-computing/bluemix/solutions/open-architecture/">Cloud Foundry, IBM Containers, Virtual Machines</a>

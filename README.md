@@ -1,6 +1,7 @@
 # Bluemix-Wizard
 
-<a href="https://www.ng.bluemix.net/docs/overview/index.html">Blueix Overview</a><br>
+<img src="https://farm2.staticflickr.com/1639/24243821399_d12625bee2.jpg" width="469" height="107" alt="bluemix"><p>
+<a href="https://www.ng.bluemix.net/docs/overview/index.html">Bluemix Overview</a><br>
 <a href="https://developer.ibm.com/centers/">IBM Developer Portal</a>
 <h2>Questions</h2>
 <ol>

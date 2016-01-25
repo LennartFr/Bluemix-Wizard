@@ -4,28 +4,6 @@
 <a href="https://www.ng.bluemix.net/docs/overview/index.html">Bluemix Overview</a><br>
 <a href="https://developer.ibm.com/centers/">IBM Developer Portal</a>
 <h2>Questions</h2>
-<ol>
-<li>Are you in any specific industry?
-<br>Map to IBM Verticals: 
-<li><a href="http://www-935.ibm.com/industries/aerospacedefense/">Aerospace and defense</a>
-<li>Automotive 
-<li>Banking
-<li>Chemicals and petroleum
-<li>Communications
-<li>Consumer products
-<li>Education
-<li>Electronics
-<li>Energy and utilities
-<li>Financial markets
-<li>Government
-<li>Healthcare
-<li>Insurance
-<li>Life sciences
-<li>Media and entertainment
-<li>Metals mining
-<li>Retail
-<li>Travel and transportation
-</ol>
 <li>What regulations do you have to comply with? (SOC, Safe Harbor, PCI/DSS,FISMA,HIPAA)
 <li>Are you already using any cloud service, if so which?
 <ol>
@@ -52,7 +30,28 @@
 <li>What performance requirements do you have?
 <li>What APIs do you need to connect to?
 <li>What Use Case(s) do you have? 
-</ol>
+<ol>
+<li>Are you in any specific industry?
+<br>Map to IBM Verticals: 
+<li><a href="http://www-935.ibm.com/industries/aerospacedefense/">Aerospace and defense</a>
+<li>Automotive 
+<li>Banking
+<li>Chemicals and petroleum
+<li>Communications
+<li>Consumer products
+<li>Education
+<li>Electronics
+<li>Energy and utilities
+<li>Financial markets
+<li>Government
+<li>Healthcare
+<li>Insurance
+<li>Life sciences
+<li>Media and entertainment
+<li>Metals mining
+<li>Retail
+<li>Travel and transportation
+</ol></ol>
 
 <h2> Data Layer</h2>
 <a href="http://www.ibm.com/cloud-computing/bluemix/solutions/data-analytics/">Data and Analytics</a>

@@ -57,6 +57,7 @@
 <br><a href="https://www.ng.bluemix.net/docs/services/APIManagement/index.html">Docs</a>
 </ol>
 
-
+<h2>Mobile Layer</h2>
+<a href="http://www.ibm.com/cloud-computing/bluemix/solutions/mobilefirst/">Introduction to Mobile</a>
 
 

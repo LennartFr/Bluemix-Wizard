@@ -1,4 +1,6 @@
 # Bluemix-Wizard
+
+<h2>Questions</h2>
 <ol>
 <li>Are you in any specific industry?
 <br>Map to IBM Verticals: Aerospace and defense, Automotive, Banking, Chemicals and petroleum, Communications, Consumer products, Education, Electronics, Energy and utilities, Financial markets, Government, Healthcare, Insurance, Life sciences, Media and entertainment, Metals, mining, Retail, Travel and transportation
@@ -14,3 +16,13 @@
 <li>What APIs do you need to connect to?
 <li>What Use Case(s) do you have? 
 </ol>
+
+<h2>Data Layer</h2>
+<ol><a href="https://console.ng.bluemix.net/catalog/services/analytics-for-apache-hadoop/">Analytics for Apache Hadoop</a>
+<li><a href="https://console.ng.bluemix.net/catalog/services/apache-spark/">Apache Spark</a>
+<li><a href="https://console.ng.bluemix.net/catalog/services/biginsights-for-apache-hadoop/">BigInsights for Apache Hadoop</a>
+
+
+
+
+

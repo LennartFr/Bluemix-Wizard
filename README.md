@@ -22,7 +22,7 @@
 <li><a href="https://console.ng.bluemix.net/catalog/services/cloudant-nosql-db/">Cloudant NOSQL DB</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/ibm-db2-on-cloud/">DB2 on Cloud</a>
 <a href="https://www.ng.bluemix.net/docs/services/DB2OnCloud/index.html">Docs</a>
-<li><a href="https://console.ng.bluemix.net/catalog/services/postgresql-by-compose/">PostgreSQL by Compose/a>
+<li><a href="https://console.ng.bluemix.net/catalog/services/postgresql-by-compose/">PostgreSQL by Compose</a>
 <a href="https://docs.compose.io/getting-started/compose.html">Docs</a>
 </ol>
 

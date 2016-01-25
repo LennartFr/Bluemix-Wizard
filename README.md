@@ -18,9 +18,12 @@
 </ol>
 
 <h2>Data Layer</h2>
-<ol><a href="https://console.ng.bluemix.net/catalog/services/analytics-for-apache-hadoop/">Analytics for Apache Hadoop</a>
+<ol>
+<li><a href="https://console.ng.bluemix.net/catalog/services/analytics-for-apache-hadoop/">Analytics for Apache Hadoop</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/apache-spark/">Apache Spark</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/biginsights-for-apache-hadoop/">BigInsights for Apache Hadoop</a>
+<li><a href="https://console.ng.bluemix.net/catalog/services/dashdb/">DashDB</a>
+<li><a href="https://console.ng.bluemix.net/catalog/services/dataworks/">DataWorks</a>
 
 
 

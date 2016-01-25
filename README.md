@@ -18,6 +18,7 @@
 </ol>
 
 <h2> Data Layer</h2>
+<a href="http://www.ibm.com/cloud-computing/bluemix/solutions/data-analytics/">Data and Analytics</a>
 <ol>
 <li><a href="https://console.ng.bluemix.net/catalog/services/cloudant-nosql-db/">Cloudant NOSQL DB</a>
 <br><a href="https://console.ng.bluemix.net/catalog/services/cloudant-nosql-db/index.html">Docs</a>
@@ -30,6 +31,7 @@
 </ol>
 
 <h2>Analytics Layer</h2>
+<a href="http://www.ibm.com/cloud-computing/bluemix/solutions/data-analytics/">Data and Analytics</a>
 <ol>
 <li><a href="https://console.ng.bluemix.net/catalog/services/analytics-for-apache-hadoop/">Analytics for Apache Hadoop</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/apache-spark/">Apache Spark</a>

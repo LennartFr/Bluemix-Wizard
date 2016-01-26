@@ -53,13 +53,13 @@
 <li><a href="http://www-935.ibm.com/industries/consumerproducts/">Consumer products</a>
 <li><a href="http://www-935.ibm.com/industries/education/">Education</a>
 <li><a href="http://www-935.ibm.com/industries/electronics/">Electronics</a>
-<li><a href="http://www-935.ibm.com/industries/energyandutilities/">Energy and utilities</a>
-<li><a href="http://www-935.ibm.com/industries/chemicalsandpetroleum/">Chemicals and Petrolium</a>
+<li><a href="http://www-935.ibm.com/industries/energyutilities/">Energy and utilities</a>
+<li><a href="http://www-935.ibm.com/industries/chemicalspetroleum/">Chemicals and Petrolium</a>
 <li><a href="http://www-935.ibm.com/industries/government/">Government</a>
 <li><a href="http://www-935.ibm.com/industries/healthcare/">Healthcare</a>
 <li><a href="http://www-935.ibm.com/industries/insurance/">Insurance</a>
 <li><a href="http://www-935.ibm.com/industries/lifesciences/">Life sciences</a>
-<li><a href="http://www-935.ibm.com/industries/mediaandentertainment/">Media and entertainment
+<li><a href="http://www-935.ibm.com/industries/mediaentertainment/">Media and entertainment
 <li><a href="http://www-935.ibm.com/industries/metalsmining/">Metals and mining</a>
 <li><a href="http://www-935.ibm.com/industries/retail/">Retail</a>
 <li><a href="http://www-935.ibm.com/industries/traveltransportation/">Travel and transportation</a>

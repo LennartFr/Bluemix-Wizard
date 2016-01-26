@@ -3,7 +3,7 @@
 <img src="https://farm2.staticflickr.com/1639/24243821399_d12625bee2.jpg" width="469" height="107" alt="bluemix"><p>
 <a href="https://www.ng.bluemix.net/docs/overview/index.html">Bluemix Overview</a><br>
 <a href="https://developer.ibm.com/centers/">IBM Developer Portal</a>
-<h2>Questions</h2>
+<h1>Questions</h1>
 <li>Are you already using any cloud service, if so which?
 <ol>
 <li><a href="https://bluemix.net">IBM Bluemix</a>
@@ -14,19 +14,19 @@
 </ol>
 <li>What Cloud hosting model do you prefer?  
 <ol>
-<li>Public, 
+<li>Public Bluemix 
 <li><a href="https://www.ng.bluemix.net/docs/dedicated/index.html">Bluemix Dedicated</a>
 <br><img src="https://www.ng.bluemix.net/docs/api/content/dedicated/images/detaileddedicated.png">
 <li><a href="http://www.ibm.com/cloud-computing/bluemix/hybrid/local/">Bluemix Local</a> 
 <br><img src="https://www.ng.bluemix.net/docs/api/content/overview/images/localarch.png">
-<li>Hybrid
+<li>Hybrid cloud model. 
 <br><a href="http://www.ibm.com/cloud-computing/bluemix/solutions/open-architecture/">Cloud Foundry, IBM Containers, Virtual Machines</a>
 <li><a href="https://www.ng.bluemix.net/docs/api/content/manageapps/app_architecture/index.html#main">IBM Bluemix Application Architectures</a>
 <p><b>Business Intelligence:</b>
 <img src="https://www.ng.bluemix.net/docs/api/content/manageapps/app_architecture/images/crm/Full_CRM.png">
 <p><b>Data Analytics</b>
 <img src="https://www.ng.bluemix.net/docs/api/content/manageapps/app_architecture/images/iot/Full_IoT.png">
-<p><b>Hybrid Data storage</b>
+<p><b>Hybrid Data storage</b> 
 <img src="https://www.ng.bluemix.net/docs/api/content/manageapps/app_architecture/images/webapp/Full_Web_App_Hosting_CF.png">
 <p><b>Web App Hosting</b>
 <img src="https://www.ng.bluemix.net/docs/api/content/manageapps/app_architecture/images/hybrid/Full_Hybrid_Data_Storage_Containers.png">
@@ -59,10 +59,14 @@
 <li>Life sciences
 <li>Media and entertainment
 <li>Metals mining
-<li>Retail
+<li><li><a href="http://www-935.ibm.com/industries/retail/">Retail
 <li>Travel and transportation
 </ol>
 </ol>
+
+<h1>Bluemix Architecture Layers</h1>
+<hr>
+
 <h2> Data Layer</h2>
 <a href="http://www.ibm.com/cloud-computing/bluemix/solutions/data-analytics/">Data and Analytics</a>
 <ol>

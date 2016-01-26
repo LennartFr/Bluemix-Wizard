@@ -94,7 +94,7 @@
 
 <h2>Cognitive Layer</h2>
 <a href="http://www.ibm.com/cloud-computing/bluemix/solutions/watson/">Watson Overview</a>
-
+<br><a href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/">Meet Watson</a>
 <ol>
 <li><a href="https://console.ng.bluemix.net/catalog/services/alchemyapi/">Alchemy API</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/concept-expansion/">Concept Expansion analyzes text and learns similar terms (words or phrases) based on context. It helps users to rapidly create a lexicon (a set of related terms) from a data set of text fragments. The output can be used to provide further understanding of data and improve text analytics pipelines.</a>

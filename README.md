@@ -131,6 +131,6 @@
 </ol>
 
 <h2>Mobile Layer</h2>
-<a href="http://www.ibm.com/cloud-computing/bluemix/solutions/mobilefirst/">Introduction to Mobile</a>
+<a href="http://www.ibm.com/cloud-computing/bluemix/solutions/mobilefirst/">Introduction to Mobile</a>  
 
 

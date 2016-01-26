@@ -46,23 +46,23 @@
 <li>Are you in any specific industry? Is so map to IBM Verticals:
 <ol>
 <li><a href="http://www-935.ibm.com/industries/aerospacedefense/">Aerospace and defense</a>
-<li><a href="http://www-935.ibm.com/industries/automotive/">Automotive 
-<li><a href="http://www-935.ibm.com/industries/banking/">Banking
-<li>Chemicals and petroleum
-<li><a href="http://www-935.ibm.com/industries/communication/">Communications
-<li>Consumer products
-<li><a href="http://www-935.ibm.com/industries/education/">Education
-<li><a href="http://www-935.ibm.com/industries/electronics/">Electronics
-<li>Energy and utilities
-<li>Financial markets
-<li><a href="http://www-935.ibm.com/industries/government/">Government
-<li><a href="http://www-935.ibm.com/industries/healthcare/">Healthcare
-<li><a href="http://www-935.ibm.com/industries/insurance/">Insurance
-<li>Life sciences
-<li>Media and entertainment
-<li>Metals mining
-<li><a href="http://www-935.ibm.com/industries/retail/">Retail
-<li>Travel and transportation
+<li><a href="http://www-935.ibm.com/industries/automotive/">Automotive</a> 
+<li><a href="http://www-935.ibm.com/industries/banking/">Banking</a>
+<li><a href="http://www-935.ibm.com/industries/chemicalspetroleum/">Chemicals and petroleum</a>
+<li><a href="http://www-935.ibm.com/industries/communication/">Communications</a>
+<li><a href="http://www-935.ibm.com/industries/consumerproducts/">Consumer products</a>
+<li><a href="http://www-935.ibm.com/industries/education/">Education</a>
+<li><a href="http://www-935.ibm.com/industries/electronics/">Electronics</a>
+<li><a href="http://www-935.ibm.com/industries/energyandutilities/">Energy and utilities</a>
+<li><a href="http://www-935.ibm.com/industries/chemicalsandpetroleum/">Chemicals and Petrolium</a>
+<li><a href="http://www-935.ibm.com/industries/government/">Government</a>
+<li><a href="http://www-935.ibm.com/industries/healthcare/">Healthcare</a>
+<li><a href="http://www-935.ibm.com/industries/insurance/">Insurance</a>
+<li><a href="http://www-935.ibm.com/industries/lifesciences/">Life sciences</a>
+<li><a href="http://www-935.ibm.com/industries/mediaandentertainment/">Media and entertainment
+<li><a href="http://www-935.ibm.com/industries/metalsandmining/">Metals and mining</a>
+<li><a href="http://www-935.ibm.com/industries/retail/">Retail</a>
+<li><a href="http://www-935.ibm.com/industries/travelandtransportation/">Travel and transportation</a>
 </ol>
 </ol>
 

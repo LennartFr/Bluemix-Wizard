@@ -60,10 +60,12 @@
 <br><a href="https://console.ng.bluemix.net/catalog/services/cloudant-nosql-db/index.html">Docs</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/ibm-db2-on-cloud/">DB2 on Cloud</a>
 <br><a href="https://www.ng.bluemix.net/docs/services/DB2OnCloud/index.html">Docs</a>
+<li><a href="https://console.ng.bluemix.net/catalog/services/cleardb-mysql-database/">ClearDB (MySQL)</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/postgresql-by-compose/">PostgreSQL by Compose</a>
 <br><a href="https://docs.compose.io/getting-started/compose.html">Docs</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/mongodb-by-compose/">MongoDB</a>
 <br><a href="https://console.ng.bluemix.net/catalog/services/mongodb-by-compose/index.html">Docs</a>
+<li><a href="https://console.ng.bluemix.net/catalog/services/time-series-database/">Time Series Database</a>
 </ol>
 
 <h2>Analytics Layer</h2>

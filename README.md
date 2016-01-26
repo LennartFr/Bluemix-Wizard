@@ -31,7 +31,8 @@
 <li>What Use Case(s) do you have? 
 <li>What regulations do you have to comply with? (SOC, Safe Harbor, PCI/DSS,FISMA,HIPAA)
 <li>Are you in any specific industry?
-<br>Map to IBM Verticals: 
+<br>Map to IBM Verticals:
+<ol>
 <li><a href="http://www-935.ibm.com/industries/aerospacedefense/">Aerospace and defense</a>
 <li>Automotive 
 <li>Banking
@@ -50,8 +51,8 @@
 <li>Metals mining
 <li>Retail
 <li>Travel and transportation
-</ol></ol>
-
+</ol>
+</ol>
 <h2> Data Layer</h2>
 <a href="http://www.ibm.com/cloud-computing/bluemix/solutions/data-analytics/">Data and Analytics</a>
 <ol>

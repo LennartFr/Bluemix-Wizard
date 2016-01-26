@@ -15,7 +15,7 @@
 <li>What Cloud hosting model do you prefer?  
 <ol>
 <li>Public, 
-<li><a href="https://www.ng.bluemix.net/docs/dedicated/index.html">Bluemix Decicated</a>
+<li><a href="https://www.ng.bluemix.net/docs/dedicated/index.html">Bluemix Dedicated</a>
 <br><img src="https://www.ng.bluemix.net/docs/api/content/dedicated/images/detaileddedicated.png">
 <li><a href="http://www.ibm.com/cloud-computing/bluemix/hybrid/local/">Bluemix Local</a> 
 <br><img src="https://www.ng.bluemix.net/docs/api/content/overview/images/localarch.png">

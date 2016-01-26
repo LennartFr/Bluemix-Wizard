@@ -22,16 +22,18 @@
 <br><img src="https://www.ng.bluemix.net/docs/api/content/overview/images/localarch.png">
 <li>Hybrid cloud model. 
 <br><a href="http://www.ibm.com/cloud-computing/bluemix/solutions/open-architecture/">Cloud Foundry, IBM Containers, Virtual Machines</a>
+</ol>
 <li><a href="https://www.ng.bluemix.net/docs/api/content/manageapps/app_architecture/index.html#main">Which IBM Bluemix Application Architecture best fits your needs?</a>
-<p><b>Business Intelligence:</b>
+<ol>
+<li><b>Business Intelligence:</b>
 <img src="https://www.ng.bluemix.net/docs/api/content/manageapps/app_architecture/images/crm/Full_CRM.png">
-<p><b>Data Analytics</b>
+<li><b>Data Analytics</b>
 <img src="https://www.ng.bluemix.net/docs/api/content/manageapps/app_architecture/images/iot/Full_IoT.png">
-<p><b>Hybrid Data storage</b> 
+<li><b>Hybrid Data storage</b> 
 <img src="https://www.ng.bluemix.net/docs/api/content/manageapps/app_architecture/images/webapp/Full_Web_App_Hosting_CF.png">
-<p><b>Web App Hosting</b>
+<li><b>Web App Hosting</b>
 <img src="https://www.ng.bluemix.net/docs/api/content/manageapps/app_architecture/images/hybrid/Full_Hybrid_Data_Storage_Containers.png">
-<p>
+</ol>
 <li>What security requirements do you have?
 <br><a href="https://www.ng.bluemix.net/docs/security/index.html">Bluemix Security</a>
 <li>What type of data do you work with? (<a href="http://www.ibm.com/big-data/us/en/">Big Data</a>, <a href="http://www.ibmbigdatahub.com/blog/behind-buzz-about-nosql">NoSQL</a>, <a href="https://console.ng.bluemix.net/catalog/services/sql-database">SQL</a>)

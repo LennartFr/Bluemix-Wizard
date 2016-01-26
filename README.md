@@ -4,6 +4,7 @@
 <a href="https://www.ng.bluemix.net/docs/overview/index.html">Bluemix Overview</a><br>
 <a href="https://developer.ibm.com/centers/">IBM Developer Portal</a>
 <h1>Questions</h1>
+<ol>
 <li>Are you already using any cloud service, if so which?
 <ol>
 <li><a href="https://bluemix.net">IBM Bluemix</a>

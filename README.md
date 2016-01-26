@@ -44,7 +44,13 @@
 </ol>
 <li>What security requirements do you have?
 <br><a href="https://www.ng.bluemix.net/docs/security/index.html">Bluemix Security</a>
-<li>What type of data do you work with? (<a href="http://www.ibm.com/big-data/us/en/">Big Data</a>, <a href="http://www.ibmbigdatahub.com/blog/behind-buzz-about-nosql">NoSQL</a>, <a href="https://console.ng.bluemix.net/catalog/services/sql-database">SQL</a>)
+<li>What type of data do you work with? 
+<ol>
+<li><a href="http://www.ibm.com/big-data/us/en/">Big Data</a>
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/u5jWC89xBzI" frameborder="0" allowfullscreen></iframe>
+<li><a href="http://www.ibmbigdatahub.com/blog/behind-buzz-about-nosql">NoSQL</a>
+<li><a href="https://console.ng.bluemix.net/catalog/services/sql-database">SQL</a>
+</ol>
 <li>Will you be using Analytics? If so see under Analytics section below.
 <li>Will you be using any Watson Services, if so see the Watson Cognitive section below
 <li>What performance requirements do you have?

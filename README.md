@@ -44,22 +44,22 @@
 <br>Map to IBM Verticals:
 <ol>
 <li><a href="http://www-935.ibm.com/industries/aerospacedefense/">Aerospace and defense</a>
-<li>Automotive 
-<li>Banking
+<li><a href="http://www-935.ibm.com/industries/automotive/">Automotive 
+<li><a href="http://www-935.ibm.com/industries/banking/">Banking
 <li>Chemicals and petroleum
-<li>Communications
+<li><a href="http://www-935.ibm.com/industries/communication/">Communications
 <li>Consumer products
-<li>Education
-<li>Electronics
+<li><a href="http://www-935.ibm.com/industries/education/">Education
+<li><a href="http://www-935.ibm.com/industries/electronics/">Electronics
 <li>Energy and utilities
 <li>Financial markets
-<li>Government
-<li>Healthcare
-<li>Insurance
+<li><a href="http://www-935.ibm.com/industries/government/">Government
+<li><a href="http://www-935.ibm.com/industries/healthcare/">Healthcare
+<li><a href="http://www-935.ibm.com/industries/insurance/">Insurance
 <li>Life sciences
 <li>Media and entertainment
 <li>Metals mining
-<li><li><a href="http://www-935.ibm.com/industries/retail/">Retail
+<li><a href="http://www-935.ibm.com/industries/retail/">Retail
 <li>Travel and transportation
 </ol>
 </ol>

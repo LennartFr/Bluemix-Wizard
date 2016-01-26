@@ -132,6 +132,17 @@
 <li><a href="https://console.ng.bluemix.net/catalog/services/visual-recognition/">Visual Recognition</a>
 </ol>
 
+<h2>Runtime</h2>
+<ol>
+<li><a href="https://console.ng.bluemix.net/catalog/starters/liberty-for-java/">Java Liberty</a>
+<li><a href="https://console.ng.bluemix.net/catalog/starters/sdk-for-nodejs/">Node JS</a>
+<li><a href="https://console.ng.bluemix.net/catalog/starters/python/">Python</a>
+<li><a href="https://console.ng.bluemix.net/catalog/starters/ruby/">Ruby</a>
+<li><a href="https://console.ng.bluemix.net/catalog/starters/php/">PHP</a>
+<li>Others
+</ol>
+</ol>
+
 <h2>Mobile Layer</h2>
 <a href="http://www.ibm.com/cloud-computing/bluemix/solutions/mobilefirst/">Introduction to Mobile</a>  
 

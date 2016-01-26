@@ -62,7 +62,7 @@
 <li><a href="http://www-935.ibm.com/industries/mediaandentertainment/">Media and entertainment
 <li><a href="http://www-935.ibm.com/industries/metalsandmining/">Metals and mining</a>
 <li><a href="http://www-935.ibm.com/industries/retail/">Retail</a>
-<li><a href="http://www-935.ibm.com/industries/travelandtransportation/">Travel and transportation</a>
+<li><a href="http://www-935.ibm.com/industries/traveltransportation/">Travel and transportation</a>
 </ol>
 </ol>
 

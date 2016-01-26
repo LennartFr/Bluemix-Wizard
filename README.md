@@ -27,7 +27,9 @@
 <li><a href="https://console.ng.bluemix.net/catalog/services/virtual-private-network-vpn/">Virtual Private Network Service</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/api-management/">API Management</a>
 </ol>
-<br><a href="http://www.ibm.com/cloud-computing/bluemix/solutions/open-architecture/">Cloud Foundry, IBM Containers, Virtual Machines</a>
+<li>Platforms
+<li><a href="http://www.ibm.com/cloud-computing/bluemix/solutions/open-architecture/">Cloud Foundry, IBM Containers, Virtual Machines</a>
+</ol>
 </ol>
 <li><a href="https://www.ng.bluemix.net/docs/api/content/manageapps/app_architecture/index.html#main">Which IBM Bluemix Application Architecture best fits your needs?</a>
 <ol>

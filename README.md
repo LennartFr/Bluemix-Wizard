@@ -47,7 +47,7 @@
 <li>What type of data do you work with? 
 <ol>
 <li><a href="http://www.ibm.com/big-data/us/en/">Big Data</a>
-<br><iframe width="560" height="315" src="https://www.youtube.com/embed/u5jWC89xBzI" frameborder="0" allowfullscreen></iframe>
+<br>
 <li><a href="http://www.ibmbigdatahub.com/blog/behind-buzz-about-nosql">NoSQL</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/sql-database">SQL</a>
 </ol>
@@ -80,10 +80,8 @@
 </ol>
 </ol>
 
-
 <h1>Bluemix Architecture Layers</h1>
 <hr>
-
 <h2> Data Layer</h2>
 <a href="http://www.ibm.com/cloud-computing/bluemix/solutions/data-analytics/">Data and Analytics</a>
 <ol>

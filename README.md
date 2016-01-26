@@ -94,7 +94,6 @@
 <li><a href="https://console.ng.bluemix.net/catalog/services/geospatial-analytics/">Geospatial Analytics</a>
 <br><a href="https://www.ng.bluemix.net/docs/#services/geospatial/index.html#geospatial">Docs</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/streaming-analytics/">Streaming Analytics</a>
-<img src="https://streams-app-broker.ng.bluemix.net/public/StreamsConsole1.png">
 <li><a href="https://console.ng.bluemix.net/catalog/services/predictive-analytics/">Predictive Analytics</a>
 <br><a href="http://www.ng.bluemix.net/docs/#services/PredictiveModeling/index.html">Docs</a>
 </ol>

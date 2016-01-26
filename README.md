@@ -21,6 +21,7 @@
 <li><a href="http://www.ibm.com/cloud-computing/bluemix/hybrid/local/">Bluemix Local</a> 
 <br><img src="https://www.ng.bluemix.net/docs/api/content/overview/images/localarch.png">
 <li>Hybrid cloud model. (Mix of public/on-prem or of Bluemix/other cloud)
+<br><img src="https://www.ibm.com/developerworks/community/blogs/barcia/resource/BLOGS_UPLOADED_IMAGES/HybridCloudArch.png">
 <ol>
 <li>Connecting to on-premise databases with <a href="https://www.ng.bluemix.net/docs/services/SecureGateway/index.html">Secure Gateway Service</a> 
 <li><a href="https://console.ng.bluemix.net/catalog/services/cloud-integration/">Bluemix Cloud Integration Service</a>

@@ -20,7 +20,7 @@
 <br><img src="https://www.ng.bluemix.net/docs/api/content/dedicated/images/detaileddedicated.png">
 <li><a href="http://www.ibm.com/cloud-computing/bluemix/hybrid/local/">Bluemix Local</a> 
 <br><img src="https://www.ng.bluemix.net/docs/api/content/overview/images/localarch.png">
-<li>Hybrid cloud model. 
+<li>Hybrid cloud model. (Mix of public/on-prem or of Bluemix/other cloud)
 <br><a href="http://www.ibm.com/cloud-computing/bluemix/solutions/open-architecture/">Cloud Foundry, IBM Containers, Virtual Machines</a>
 </ol>
 <li><a href="https://www.ng.bluemix.net/docs/api/content/manageapps/app_architecture/index.html#main">Which IBM Bluemix Application Architecture best fits your needs?</a>

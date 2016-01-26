@@ -12,7 +12,7 @@
 <li><a href="https://azure.microsoft.com/">Microsoft Azure</a>
 <li><a href="https://cloud.google.com/appengine/">Google App Engine</a>
 </ol>
-<li>What Cloud hosting model do you prefer?  
+<li>What Cloud hosting model best fits your needs?  
 <ol>
 <li>Public Bluemix 
 <li><a href="https://www.ng.bluemix.net/docs/dedicated/index.html">Bluemix Dedicated</a>
@@ -21,7 +21,7 @@
 <br><img src="https://www.ng.bluemix.net/docs/api/content/overview/images/localarch.png">
 <li>Hybrid cloud model. 
 <br><a href="http://www.ibm.com/cloud-computing/bluemix/solutions/open-architecture/">Cloud Foundry, IBM Containers, Virtual Machines</a>
-<li><a href="https://www.ng.bluemix.net/docs/api/content/manageapps/app_architecture/index.html#main">IBM Bluemix Application Architectures</a>
+<li><a href="https://www.ng.bluemix.net/docs/api/content/manageapps/app_architecture/index.html#main">Which IBM Bluemix Application Architecture best fits your needs?</a>
 <p><b>Business Intelligence:</b>
 <img src="https://www.ng.bluemix.net/docs/api/content/manageapps/app_architecture/images/crm/Full_CRM.png">
 <p><b>Data Analytics</b>

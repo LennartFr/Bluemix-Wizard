@@ -53,7 +53,7 @@
 <li><a href="http://www-935.ibm.com/industries/consumerproducts/">Consumer products</a>
 <li><a href="http://www-935.ibm.com/industries/education/">Education</a>
 <li><a href="http://www-935.ibm.com/industries/electronics/">Electronics</a>
-<li><a href="http://www-935.ibm.com/industries/energyutilities/">Energy and utilities</a>
+<li><a href="http://www.ibm.com/analytics/us/en/industry/energy-and-utilities/">Energy and utilities</a>
 <li><a href="http://www-935.ibm.com/industries/chemicalspetroleum/">Chemicals and Petrolium</a>
 <li><a href="http://www-935.ibm.com/industries/government/">Government</a>
 <li><a href="http://www-935.ibm.com/industries/healthcare/">Healthcare</a>

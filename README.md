@@ -22,11 +22,10 @@
 <br><img src="https://www.ng.bluemix.net/docs/api/content/overview/images/localarch.png">
 <li>Hybrid cloud model. (Mix of public/on-prem or of Bluemix/other cloud)
 <ol>
-<li><a href="http://www.ibm.com/cloud-computing/us/en/landing/hybrid.html">Hybrid</a>
 <li>Connecting to on-premise databases with <a href="https://www.ng.bluemix.net/docs/services/SecureGateway/index.html">Secure Gateway Service</a> 
-<li><a href="https://console.ng.bluemix.net/catalog/services/secure-gateway/">Secure Gateway Service</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/cloud-integration/">Bluemix Cloud Integration Service</a>
 <li><a href="https://console.ng.bluemix.net/catalog/services/virtual-private-network-vpn/">Virtual Private Network Service</a>
+<li>< href="https://console.ng.bluemix.net/catalog/services/api-management/">API Management</a>
 </ol>
 <br><a href="http://www.ibm.com/cloud-computing/bluemix/solutions/open-architecture/">Cloud Foundry, IBM Containers, Virtual Machines</a>
 </ol>

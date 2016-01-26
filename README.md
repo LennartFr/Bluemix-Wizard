@@ -49,7 +49,7 @@
 <li>What performance requirements do you have?
 <li>What APIs do you need to connect to?
 <li>What Use Case(s) do you have? 
-<li>What regulations do you have to comply with? (SOC, Safe Harbor, PCI/DSS,FISMA,HIPAA)
+<li>What regulations do you have to comply with? (<a href="http://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/pages/serviceorganization'smanagement.aspx">SOC</a>, <a href="http://www.export.gov/safeharbor/">Safe Harbor</a>, <a href="https://www.pcisecuritystandards.org/pci_security/">PCI/DSS</a>,<a href="http://www.dhs.gov/fisma">FISMA</a>,<a href="http://www.hhs.gov/hipaa/">HIPAA</a>)
 <li>Are you in any specific industry? Is so map to IBM Verticals:
 <ol>
 <li><a href="http://www-935.ibm.com/industries/aerospacedefense/">Aerospace and defense</a>

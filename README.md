@@ -29,7 +29,6 @@
 <li>What performance requirements do you have?
 <li>What APIs do you need to connect to?
 <li>What Use Case(s) do you have? 
-<ol>
 <li>What regulations do you have to comply with? (SOC, Safe Harbor, PCI/DSS,FISMA,HIPAA)
 <li>Are you in any specific industry?
 <br>Map to IBM Verticals: 

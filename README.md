@@ -37,14 +37,13 @@
 <li>What security requirements do you have?
 <br><a href="https://www.ng.bluemix.net/docs/security/index.html">Bluemix Security</a>
 <li>What type of data do you work with? (<a href="http://www.ibm.com/big-data/us/en/">Big Data</a>, <a href="http://www.ibmbigdatahub.com/blog/behind-buzz-about-nosql">NoSQL</a>, <a href="https://console.ng.bluemix.net/catalog/services/sql-database">SQL</a>)
-<li>What analytics requirements do you have?
-<li>Will you be using any Watson Services, if so which one(s)?
+<li>Will you be using Analytics? If so see under Analytics section below.
+<li>Will you be using any Watson Services, if so see the Watson Cognitive section below
 <li>What performance requirements do you have?
 <li>What APIs do you need to connect to?
 <li>What Use Case(s) do you have? 
 <li>What regulations do you have to comply with? (SOC, Safe Harbor, PCI/DSS,FISMA,HIPAA)
-<li>Are you in any specific industry?
-<br>Map to IBM Verticals:
+<li>Are you in any specific industry? Is so map to IBM Verticals:
 <ol>
 <li><a href="http://www-935.ibm.com/industries/aerospacedefense/">Aerospace and defense</a>
 <li><a href="http://www-935.ibm.com/industries/automotive/">Automotive 
@@ -66,6 +65,7 @@
 <li>Travel and transportation
 </ol>
 </ol>
+
 
 <h1>Bluemix Architecture Layers</h1>
 <hr>

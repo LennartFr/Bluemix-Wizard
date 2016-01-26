@@ -49,7 +49,7 @@
 <li><a href="http://www-935.ibm.com/industries/automotive/">Automotive</a> 
 <li><a href="http://www-935.ibm.com/industries/banking/">Banking</a>
 <li><a href="http://www-935.ibm.com/industries/chemicalspetroleum/">Chemicals and petroleum</a>
-<li><a href="http://www-935.ibm.com/industries/communication/">Communications</a>
+<li><a href="http://www-935.ibm.com/industries/communications/">Communications</a>
 <li><a href="http://www-935.ibm.com/industries/consumerproducts/">Consumer products</a>
 <li><a href="http://www-935.ibm.com/industries/education/">Education</a>
 <li><a href="http://www-935.ibm.com/industries/electronics/">Electronics</a>

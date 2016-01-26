@@ -20,10 +20,10 @@
 <li><a href="http://www.ibm.com/cloud-computing/bluemix/hybrid/local/">Bluemix Local</a> 
 <br><img src="https://www.ng.bluemix.net/docs/api/content/overview/images/localarch.png">
 <li>Hybrid
-<li><a href="http://www.ibm.com/cloud-computing/bluemix/solutions/open-architecture/">Cloud Foundry, IBM Containers, Virtual Machines</a>
+<br><a href="http://www.ibm.com/cloud-computing/bluemix/solutions/open-architecture/">Cloud Foundry, IBM Containers, Virtual Machines</a>
 <li>What security requirements do you have?
 <br><a href="https://www.ng.bluemix.net/docs/security/index.html">Bluemix Security</a>
-<li>What type of data do you work with? (Big Data, NoSQL, SQL)
+<li>What type of data do you work with? (<a href="http://www.ibm.com/big-data/us/en/">Big Data</a>, <a href="http://www.ibmbigdatahub.com/blog/behind-buzz-about-nosql">NoSQL</a>, <a href="https://console.ng.bluemix.net/catalog/services/sql-database">SQL</a>)
 <li>What analytics requirements do you have?
 <li>Will you be using any Watson Services, if so which one(s)?
 <li>What performance requirements do you have?

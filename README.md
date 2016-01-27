@@ -43,7 +43,12 @@
 <img src="https://www.ng.bluemix.net/docs/api/content/manageapps/app_architecture/images/hybrid/Full_Hybrid_Data_Storage_Containers.png">
 </ol>
 <li>What security requirements do you have?
-<br><a href="https://www.ng.bluemix.net/docs/security/index.html">Bluemix Security</a>
+ <ol>
+<li><a href="https://www.ng.bluemix.net/docs/security/index.html">Bluemix Security</a>
+ <li>Secure integration services - things that let applications running in bluemix securely connect to enterprise SOR or other services 
+ <li>application integrity - things that look at applications from a functional or design perspective and give feedback on potential security problems 
+ <li>identity management - services to allow enterprise directories to be used for managing identity in applications deployed in bluemix 
+</ol>
 <li>What type of data do you work with? 
 <ol>
 <li><a href="http://www.ibm.com/big-data/us/en/">Big Data</a>

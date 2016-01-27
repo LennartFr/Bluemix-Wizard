@@ -5,7 +5,7 @@
 <a href="https://developer.ibm.com/centers/">IBM Developer Portal</a>
 <h1>Questions</h1>
 <ol>
-<li>Are you already using any cloud service, if so which?
+<li>Are you already using a cloud service, if so which one?
 <ol>
 <li><a href="https://bluemix.net">IBM Bluemix</a>
 <li><a href="https://aws.amazon.com/">AWS</a>
